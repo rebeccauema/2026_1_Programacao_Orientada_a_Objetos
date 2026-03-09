@@ -72,7 +72,7 @@ public class Personagem {
         }
     }
 
-
+    
     void exibirEstado() {
 
         System.out.printf(
